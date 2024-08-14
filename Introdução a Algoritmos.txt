@@ -1,0 +1,11 @@
+Algoritmo está relacionado estreitamente com lógica na programação.
+
+Definição: Algoritmo é uma sequência de passos lógicos realizados para determinado feito, em resumo são passos para alcançar um determinado objetivo.
+Exemplo: Receita de bolo.
+
+A ordem de passos é muito importante para o melhor funcionamento do algoritmo. Podendo influênciar o desempenho do software devido a lógica aplicada.
+
+Linguagem de alto nível: Linguagem de melhor entendimento para os seres humanos, estando mais próximo da linguagem natural.
+
+Linguagem de baixo nível: Linguagem mais próxima do entendimento do hardware.
+

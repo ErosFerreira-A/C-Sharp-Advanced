@@ -1,0 +1,12 @@
+Estrutura de Dados é diferente de Dados.
+
+Sendo que a Estrutura de Dados define regras para ordernar os Dados.
+
+Uma lista é uma estrutura de dados, é uma forma de organizar os dados.
+
+A Regra dos Conjuntos numéricos é uma Estrutura de Dados.
+
+A Estrutura define critérios, regras, restrições como os dados devem estar organizados para encaixar-se dentro da estrutura.
+
+
+
