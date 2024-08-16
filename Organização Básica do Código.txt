@@ -1,0 +1,11 @@
+A parte verbosa do código é separada por blocos, podendo conter ou não sentenças dentro do bloco. Sendo demilitado por {}.
+
+Um bloco sempre estará dentro do outro.
+
+O . é algo muito presente na escrita do código.
+
+CTRL + F5 - Executa o código.
+F5 - debug.
+
+As sentenças termina com ;
+
