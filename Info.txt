@@ -1,0 +1,13 @@
+Write - Executa a apresentação da string ou de algo que quero mostrar e permanece na mesma linha.
+
+WriteLine - Dá continuidade ao programa na linha seguinte.
+
+Texto em azul - São palavras reservadas da linguagem.
+
+Em cinza - significa que não está em uso.
+
+using System - Para utilizar o sistema.
+
+cw depois tab escreve automaticamente o WriteLine.
+
+O VS não permite dois métodos ou mais nomeados como Main.
