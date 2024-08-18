@@ -46,5 +46,6 @@ namespace CursoCSharp.Fundamentos {
             string mensagem = "Obrigado por olhar meu códigos 😁";
             Console.WriteLine(mensagem);
         }
+
     }
 }
