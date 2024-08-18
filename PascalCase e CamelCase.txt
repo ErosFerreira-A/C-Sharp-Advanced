@@ -1,0 +1,53 @@
+
+No C#, o uso de PascalCase e camelCase segue convenções específicas de nomenclatura para diferentes tipos de elementos no código. Essas convenções ajudam a identificar facilmente o tipo de elemento com base em seu nome.
+
+1. PascalCase
+PascalCase é utilizado quando cada palavra no nome começa com uma letra maiúscula. Deve ser usado nos seguintes casos:
+
+1.1 Classes, Interfaces e Structs
+Classes: Nome de classes deve sempre usar PascalCase.
+Exemplo: public class Pessoa { }
+Interfaces: Nome de interfaces também deve seguir PascalCase, geralmente começando com a letra "I".
+Exemplo: public interface IVeiculo { }
+Structs: Nome de structs usa PascalCase.
+Exemplo: public struct Coordenada { }
+1.2 Propriedades e Eventos
+Propriedades: Nomes de propriedades devem seguir PascalCase.
+Exemplo: public string Nome { get; set; }
+Eventos: Nomes de eventos devem seguir PascalCase.
+Exemplo: public event EventHandler Click;
+1.3 Métodos
+Métodos públicos e privados: O nome de métodos, tanto públicos quanto privados, deve seguir PascalCase.
+Exemplo: public void CalcularTotal() { }
+1.4 Enumerações
+Enums: O nome de enumerações deve usar PascalCase.
+Exemplo: public enum DiasDaSemana { Segunda, Terca, Quarta }
+1.5 Namespaces
+Namespaces: O nome de namespaces também segue PascalCase.
+Exemplo: namespace Sistema.Financeiro { }
+2. camelCase
+camelCase é utilizado quando o nome começa com uma letra minúscula e cada palavra subsequente começa com uma letra maiúscula. Deve ser usado nos seguintes casos:
+
+2.1 Variáveis Locais
+Variáveis locais: Nomes de variáveis locais dentro de métodos devem usar camelCase.
+Exemplo: int totalProdutos = 0;
+2.2 Parâmetros de Métodos
+Parâmetros de métodos: Nomes de parâmetros de métodos devem seguir camelCase.
+Exemplo: public void AdicionarItem(int quantidade, string nomeProduto) { }
+2.3 Campos Privados e Protegidos
+Campos privados: Campos privados geralmente seguem camelCase, com ou sem o prefixo _.
+Exemplo: private int contador; ou private int _contador;
+Campos protegidos: Campos protegidos também seguem camelCase.
+Exemplo: protected int contadorInterno;
+3. Resumo
+PascalCase:
+
+Classes, interfaces, structs
+Propriedades, métodos, eventos
+Enums
+Namespaces
+camelCase:
+
+Variáveis locais
+Parâmetros de métodos
+Campos privados e protegidos

@@ -20,3 +20,6 @@ Código com bons nomes e com uma boa leitura.
 CTRL + K + C - Comenta o trecho do código selecionado.
 
 CTRL + K + U - Descomentar o trecho do código selecionado.
+
+C# - É uma linguagem fortemente típada.
+
