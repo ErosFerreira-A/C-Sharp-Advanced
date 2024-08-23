@@ -23,3 +23,14 @@ CTRL + K + U - Descomentar o trecho do código selecionado.
 
 C# - É uma linguagem fortemente típada.
 
+A notação ponto é utilzida para acessar diversos métodos, coisas que posso utilizar associado há algo conectado ao ponto.
+
+Acesso as funcionalidades dentro dos objetos a partir do ponto.
+
+Usar a notação ponto em um objeto vazio ou indefinido causa erro na execução.
+
+O utilizando ? - Torna-se seguro navegar utilizando o ponto, pois, somente será executado o a notação se estiver tudo certo com o valor passado anteriormente.
+
+string valorImportante = null;
+Console.WriteLine(valorImportante?.Length); - Retorna valor vazio.
+

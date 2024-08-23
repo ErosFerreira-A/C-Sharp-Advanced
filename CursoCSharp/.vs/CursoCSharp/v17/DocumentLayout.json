@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\CSP\\C-Sharp-Advanced\\CursoCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8291FFF-7E34-46CC-997B-7C734B353C0A}|CursoCSharp\\CursoCSharp.csproj|c:\\users\\user\\documents\\csp\\c-sharp-advanced\\cursocsharp\\cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8291FFF-7E34-46CC-997B-7C734B353C0A}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8291FFF-7E34-46CC-997B-7C734B353C0A}|CursoCSharp\\CursoCSharp.csproj|c:\\users\\user\\documents\\csp\\c-sharp-advanced\\cursocsharp\\cursocsharp\\fundamentos\\notacaoponto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8291FFF-7E34-46CC-997B-7C734B353C0A}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\fundamentos\\notacaoponto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8291FFF-7E34-46CC-997B-7C734B353C0A}|CursoCSharp\\CursoCSharp.csproj|c:\\users\\user\\documents\\csp\\c-sharp-advanced\\cursocsharp\\cursocsharp\\fundamentos\\interpolacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8291FFF-7E34-46CC-997B-7C734B353C0A}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\fundamentos\\interpolacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8291FFF-7E34-46CC-997B-7C734B353C0A}|CursoCSharp\\CursoCSharp.csproj|c:\\users\\user\\documents\\csp\\c-sharp-advanced\\cursocsharp\\cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8291FFF-7E34-46CC-997B-7C734B353C0A}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\CSP\\C-Sharp-Advanced\\CursoCSharp\\CursoCSharp\\Program.cs",
               "RelativeDocumentMoniker": "CursoCSharp\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\CSP\\C-Sharp-Advanced\\CursoCSharp\\CursoCSharp\\Program.cs",
               "RelativeToolTip": "CursoCSharp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T15:07:51.756Z",
+              "WhenOpened": "2024-08-21T12:38:53.324Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Interpolacao.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSP\\C-Sharp-Advanced\\CursoCSharp\\CursoCSharp\\Fundamentos\\Interpolacao.cs",
-              "RelativeDocumentMoniker": "CursoCSharp\\Fundamentos\\Interpolacao.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\CSP\\C-Sharp-Advanced\\CursoCSharp\\CursoCSharp\\Fundamentos\\Interpolacao.cs",
-              "RelativeToolTip": "CursoCSharp\\Fundamentos\\Interpolacao.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABEAAAA",
+              "DocumentIndex": 0,
+              "Title": "NotacaoPonto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSP\\C-Sharp-Advanced\\CursoCSharp\\CursoCSharp\\Fundamentos\\NotacaoPonto.cs",
+              "RelativeDocumentMoniker": "CursoCSharp\\Fundamentos\\NotacaoPonto.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSP\\C-Sharp-Advanced\\CursoCSharp\\CursoCSharp\\Fundamentos\\NotacaoPonto.cs",
+              "RelativeToolTip": "CursoCSharp\\Fundamentos\\NotacaoPonto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T15:03:01.613Z",
+              "WhenOpened": "2024-08-19T12:16:35.638Z",
               "EditorCaption": ""
             }
           ]
