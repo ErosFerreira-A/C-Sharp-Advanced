@@ -34,3 +34,5 @@ O utilizando ? - Torna-se seguro navegar utilizando o ponto, pois, somente será
 string valorImportante = null;
 Console.WriteLine(valorImportante?.Length); - Retorna valor vazio.
 
+int.Parse - transformar a string em um número
+
