@@ -36,3 +36,5 @@ Console.WriteLine(valorImportante?.Length); - Retorna valor vazio.
 
 int.Parse - transformar a string em um número
 
+
+
