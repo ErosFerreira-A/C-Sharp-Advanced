@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\CSP\\C-Sharp-Advanced\\CursoCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8291FFF-7E34-46CC-997B-7C734B353C0A}|CursoCSharp\\CursoCSharp.csproj|c:\\users\\user\\documents\\csp\\c-sharp-advanced\\cursocsharp\\cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8291FFF-7E34-46CC-997B-7C734B353C0A}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E8291FFF-7E34-46CC-997B-7C734B353C0A}|CursoCSharp\\CursoCSharp.csproj|c:\\users\\user\\documents\\csp\\c-sharp-advanced\\cursocsharp\\cursocsharp\\fundamentos\\operadoresdeatribuicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8291FFF-7E34-46CC-997B-7C734B353C0A}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\fundamentos\\operadoresdeatribuicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8291FFF-7E34-46CC-997B-7C734B353C0A}|CursoCSharp\\CursoCSharp.csproj|c:\\users\\user\\documents\\csp\\c-sharp-advanced\\cursocsharp\\cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8291FFF-7E34-46CC-997B-7C734B353C0A}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,20 +26,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "OperadoresDeAtribuicao.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\CSP\\C-Sharp-Advanced\\CursoCSharp\\CursoCSharp\\Fundamentos\\OperadoresDeAtribuicao.cs",
               "RelativeDocumentMoniker": "CursoCSharp\\Fundamentos\\OperadoresDeAtribuicao.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\CSP\\C-Sharp-Advanced\\CursoCSharp\\CursoCSharp\\Fundamentos\\OperadoresDeAtribuicao.cs",
               "RelativeToolTip": "CursoCSharp\\Fundamentos\\OperadoresDeAtribuicao.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAhAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwDwAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T05:15:40.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\CSP\\C-Sharp-Advanced\\CursoCSharp\\CursoCSharp\\Program.cs",
               "RelativeDocumentMoniker": "CursoCSharp\\Program.cs",

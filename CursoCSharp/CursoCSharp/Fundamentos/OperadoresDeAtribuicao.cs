@@ -54,6 +54,7 @@ namespace CursoCSharp.Fundamentos {
             // Atribuição de deslocamento à direita
             a >>= 1; // a agora é 1 (0010 >> 1 = 0001)
             Console.WriteLine(a);
+
         }
     }
 }
