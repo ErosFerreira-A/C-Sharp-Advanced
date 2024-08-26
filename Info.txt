@@ -12,7 +12,7 @@ cw depois tab escreve automaticamente o WriteLine.
 
 O VS não permite dois métodos ou mais nomeados como Main.
 
-A classe vai ter um método com o nome Execcutar e não Main
+A classe vai ter um método com o nome Executar e não Main - nesse código específico do Curso do Cod3r.
 
 Manter o código limpo é o mais desejado, comentários somente necessários.
 Código com bons nomes e com uma boa leitura.
@@ -35,6 +35,8 @@ string valorImportante = null;
 Console.WriteLine(valorImportante?.Length); - Retorna valor vazio.
 
 int.Parse - transformar a string em um número
+
+
 
 
 

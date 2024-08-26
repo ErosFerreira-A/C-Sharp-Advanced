@@ -1,4 +1,3 @@
-
 No C#, a notação ponto (ou dot notation) é usada para acessar membros de um tipo, como propriedades, métodos, campos, e eventos, ou para navegar por namespaces. É uma maneira de referenciar membros de uma classe ou estrutura a partir de uma instância (ou do próprio tipo, no caso de membros estáticos) e é fundamental para interagir com objetos e componentes no código.
 
 1. Acesso a Propriedades
