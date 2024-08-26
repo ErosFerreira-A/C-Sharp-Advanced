@@ -1,0 +1,40 @@
+
+Os operadores de atribuição em C# são usados para atribuir valores a variáveis. Eles também podem ser combinados com operadores aritméticos e bit a bit para realizar operações e atribuições em um único passo. Aqui estão os principais operadores de atribuição:
+
+1. Atribuição Simples (=)
+Atribui o valor à direita para a variável à esquerda.
+Exemplo: a = b;
+2. Atribuição Adicionada (+=)
+Adiciona o valor à direita à variável à esquerda e depois atribui o resultado à variável à esquerda.
+Exemplo: a += b; (equivalente a a = a + b;)
+3. Atribuição Subtraída (-=)
+Subtrai o valor à direita da variável à esquerda e depois atribui o resultado à variável à esquerda.
+Exemplo: a -= b; (equivalente a a = a - b;)
+4. Atribuição Multiplicada (*=)
+Multiplica a variável à esquerda pelo valor à direita e depois atribui o resultado à variável à esquerda.
+Exemplo: a *= b; (equivalente a a = a * b;)
+5. Atribuição Dividida (/=)
+Divide a variável à esquerda pelo valor à direita e depois atribui o resultado à variável à esquerda.
+Exemplo: a /= b; (equivalente a a = a / b;)
+6. Atribuição de Módulo (%=)
+Calcula o módulo da variável à esquerda pelo valor à direita e depois atribui o resultado à variável à esquerda.
+Exemplo: a %= b; (equivalente a a = a % b;)
+7. Atribuição AND bit a bit (&=)
+Realiza a operação AND bit a bit entre a variável à esquerda e o valor à direita, e depois atribui o resultado à variável à esquerda.
+Exemplo: a &= b; (equivalente a a = a & b;)
+8. Atribuição OR bit a bit (|=)
+Realiza a operação OR bit a bit entre a variável à esquerda e o valor à direita, e depois atribui o resultado à variável à esquerda.
+Exemplo: a |= b; (equivalente a a = a | b;)
+9. Atribuição XOR bit a bit (^=)
+Realiza a operação XOR bit a bit entre a variável à esquerda e o valor à direita, e depois atribui o resultado à variável à esquerda.
+Exemplo: a ^= b; (equivalente a a = a ^ b;)
+10. Atribuição de Deslocamento à Esquerda (<<=)
+css
+Copiar código
+- Desloca os bits da variável à esquerda pelo número de posições especificado à direita e atribui o resultado à variável à esquerda.
+- Exemplo: `a <<= b;` (equivalente a `a = a << b;`)
+11. Atribuição de Deslocamento à Direita (>>=)
+css
+Copiar código
+- Desloca os bits da variável à esquerda pelo número de posições especificado à direita e atribui o resultado à variável à esquerda.
+- Exemplo: `a >>= b;` (equivalente a `a = a >> b;`)
