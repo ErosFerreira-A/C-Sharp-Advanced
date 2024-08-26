@@ -1,0 +1,46 @@
+
+Os operadores unitários em C# são operadores que atuam em um único operando para produzir um novo valor. Eles incluem operadores de incremento, decremento, negação lógica, negação aritmética, e outros. Aqui está uma lista dos operadores unitários mais comuns:
+
+1. Incremento (++)
+Incrementa o valor do operando em 1.
+Existem duas formas: pré-incremento e pós-incremento.
+Pré-incremento (++a): Incrementa o valor de a antes de usar.
+Pós-incremento (a++): Usa o valor atual de a e depois incrementa.
+Exemplo:
+csharp
+Copiar código
+int a = 5;
+int b = ++a; // b é 6, a é 6
+int c = a++; // c é 6, a é 7
+2. Decremento (--)
+Decrementa o valor do operando em 1.
+Também possui pré-decremento e pós-decremento.
+Pré-decremento (--a): Decrementa o valor de a antes de usar.
+Pós-decremento (a--): Usa o valor atual de a e depois decrementa.
+Exemplo:
+csharp
+Copiar código
+int a = 5;
+int b = --a; // b é 4, a é 4
+int c = a--; // c é 4, a é 3
+3. Negação Lógica (!)
+Inverte o valor lógico de uma expressão booleana.
+Exemplo:
+csharp
+Copiar código
+bool a = true;
+bool b = !a; // b é false
+4. Negação Aritmética (-)
+Inverte o sinal de um número (de positivo para negativo, ou de negativo para positivo).
+Exemplo:
+csharp
+Copiar código
+int a = 5;
+int b = -a; // b é -5
+5. Complemento Bit a Bit (~)
+Inverte todos os bits do operando (também conhecido como negação bit a bit).
+Exemplo:
+csharp
+Copiar código
+int a = 5;   // 5 em binário é 0000000000000101
+int b = ~a;  // b é -6, em binário é 1111111111111010 (complemento de dois)
