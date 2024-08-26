@@ -1,0 +1,26 @@
+Os operadores relacionais em C# são utilizados para comparar valores. Eles retornam um valor booleano (true ou false) dependendo da relação entre os operandos. Aqui está uma lista dos operadores relacionais disponíveis em C#:
+
+Igual a (==):
+
+Verifica se dois operandos são iguais.
+Exemplo: a == b
+Diferente de (!=):
+
+Verifica se dois operandos são diferentes.
+Exemplo: a != b
+Maior que (>):
+
+Verifica se o operando à esquerda é maior que o operando à direita.
+Exemplo: a > b
+Menor que (<):
+
+Verifica se o operando à esquerda é menor que o operando à direita.
+Exemplo: a < b
+Maior ou igual a (>=):
+
+Verifica se o operando à esquerda é maior ou igual ao operando à direita.
+Exemplo: a >= b
+Menor ou igual a (<=):
+
+Verifica se o operando à esquerda é menor ou igual ao operando à direita.
+Exemplo: a <= b
