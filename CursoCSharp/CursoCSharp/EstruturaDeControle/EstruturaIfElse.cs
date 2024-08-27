@@ -11,9 +11,9 @@ namespace CursoCSharp.EstruturaDeControle {
 
             // if , else if , else
             if (nota == 10) {
-                Console.WriteLine("Nota Perfeita !!!S");
+                Console.WriteLine("Nota Perfeita !!!");
             } else if (nota >= 7.0) {
-                Console.WriteLine("Aprovado");
+                Console.WriteLine("Aprovado !!! ");
                 Console.WriteLine("Muito bem! Continue assim !!!");
             } else {
                 Console.WriteLine($"Reprovado: \n Nota: {nota}");
