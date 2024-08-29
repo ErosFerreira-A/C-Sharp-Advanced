@@ -37,7 +37,7 @@ namespace CursoCSharp.EstruturaDeControle {
             var corAnterior = Console.BackgroundColor;
             Console.BackgroundColor = ConsoleColor.Green;
             Console.WriteLine($"Você acertou o número !!!");
-            Console.WriteLine($"Número Secreto {numSecreto}");
+            Console.WriteLine($"Número Secreto: {numSecreto}");
             Console.WriteLine("Fim ! :D");
             Console.BackgroundColor = corAnterior;
 

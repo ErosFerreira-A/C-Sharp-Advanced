@@ -1,0 +1,5 @@
+Loop For : O loop for em C# é uma estrutura de repetição usada quando você sabe antecipadamente quantas vezes deseja que o loop seja executado. Ele é particularmente útil quando você precisa iterar sobre uma coleção de elementos ou realizar uma série de operações um número específico de vezes.
+
+While: O loop while em C# é usado quando você precisa repetir um bloco de código enquanto uma condição específica for verdadeira. É particularmente útil em situações onde o número de iterações não é conhecido antecipadamente e depende de alguma condição que pode variar durante a execução.
+
+Do...While: O do...while é uma estrutura de repetição em C# que, assim como o while, é usada para executar um bloco de código repetidamente enquanto uma condição for verdadeira. A diferença crucial entre os dois é que o do...while garante que o bloco de código seja executado pelo menos uma vez, independentemente da condição, pois a verificação da condição é feita após a execução do bloco.
