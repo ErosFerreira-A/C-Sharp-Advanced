@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\CSP\\C-Sharp-Advanced\\CursoCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8291FFF-7E34-46CC-997B-7C734B353C0A}|CursoCSharp\\CursoCSharp.csproj|c:\\users\\user\\documents\\csp\\c-sharp-advanced\\cursocsharp\\cursocsharp\\estruturadecontrole\\estruturadowhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8291FFF-7E34-46CC-997B-7C734B353C0A}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\estruturadecontrole\\estruturadowhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8291FFF-7E34-46CC-997B-7C734B353C0A}|CursoCSharp\\CursoCSharp.csproj|c:\\users\\user\\documents\\csp\\c-sharp-advanced\\cursocsharp\\cursocsharp\\estruturadecontrole\\estruturafor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8291FFF-7E34-46CC-997B-7C734B353C0A}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\estruturadecontrole\\estruturafor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8291FFF-7E34-46CC-997B-7C734B353C0A}|CursoCSharp\\CursoCSharp.csproj|c:\\users\\user\\documents\\csp\\c-sharp-advanced\\cursocsharp\\cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8291FFF-7E34-46CC-997B-7C734B353C0A}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8291FFF-7E34-46CC-997B-7C734B353C0A}|CursoCSharp\\CursoCSharp.csproj|c:\\users\\user\\documents\\csp\\c-sharp-advanced\\cursocsharp\\cursocsharp\\estruturadecontrole\\estruturawhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8291FFF-7E34-46CC-997B-7C734B353C0A}|CursoCSharp\\CursoCSharp.csproj|solutionrelative:cursocsharp\\estruturadecontrole\\estruturawhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EstruturaDoWhile.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSP\\C-Sharp-Advanced\\CursoCSharp\\CursoCSharp\\EstruturaDeControle\\EstruturaDoWhile.cs",
-              "RelativeDocumentMoniker": "CursoCSharp\\EstruturaDeControle\\EstruturaDoWhile.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\CSP\\C-Sharp-Advanced\\CursoCSharp\\CursoCSharp\\EstruturaDeControle\\EstruturaDoWhile.cs",
-              "RelativeToolTip": "CursoCSharp\\EstruturaDeControle\\EstruturaDoWhile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Title": "EstruturaFor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSP\\C-Sharp-Advanced\\CursoCSharp\\CursoCSharp\\EstruturaDeControle\\EstruturaFor.cs",
+              "RelativeDocumentMoniker": "CursoCSharp\\EstruturaDeControle\\EstruturaFor.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSP\\C-Sharp-Advanced\\CursoCSharp\\CursoCSharp\\EstruturaDeControle\\EstruturaFor.cs",
+              "RelativeToolTip": "CursoCSharp\\EstruturaDeControle\\EstruturaFor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T05:08:57.743Z",
+              "WhenOpened": "2024-08-29T05:36:04.26Z",
               "EditorCaption": ""
             },
             {
@@ -49,22 +45,10 @@
               "RelativeDocumentMoniker": "CursoCSharp\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\CSP\\C-Sharp-Advanced\\CursoCSharp\\CursoCSharp\\Program.cs",
               "RelativeToolTip": "CursoCSharp\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwB4AAABbAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwB8AAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T04:10:54.154Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EstruturaWhile.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSP\\C-Sharp-Advanced\\CursoCSharp\\CursoCSharp\\EstruturaDeControle\\EstruturaWhile.cs",
-              "RelativeDocumentMoniker": "CursoCSharp\\EstruturaDeControle\\EstruturaWhile.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\CSP\\C-Sharp-Advanced\\CursoCSharp\\CursoCSharp\\EstruturaDeControle\\EstruturaWhile.cs",
-              "RelativeToolTip": "CursoCSharp\\EstruturaDeControle\\EstruturaWhile.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAwwCcAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T04:04:27.145Z"
             }
           ]
         }
